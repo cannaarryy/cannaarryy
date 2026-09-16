@@ -61,3 +61,17 @@ El `©` legal vive como texto en el README (seleccionable).
 - **Añadir sección:** reutiliza `section-divider.svg`; no crees divisores nuevos.
 - **No hacer:** filtros pesados, fuentes externas, `<script>`, links
   dentro del SVG (en GitHub se renderiza como imagen sin interacción).
+
+## GIFs animados (nativos en GitHub, sin JS)
+
+Generados con `assets/make_gifs.py` (Pillow + Consolas del sistema).
+Solo 2 archivos: calidad sobre cantidad.
+
+| Archivo | Tamaño | Duración | Función |
+|---|---|---|---|
+| `boot.gif` | 880×330 · ~94 KB · 34 frames @10fps | ~3.4 s loop | Secuencia de arranque tras el hero (`boot profile`, 6× `[ OK ]`, barra, `SYSTEM ONLINE`) |
+| `online.gif` | 32×32 · ~1 KB · 8 frames | loop | Punto de estado pulsante (fondo transparente). Reutilizado en ClientFlow y footer |
+
+Reglas: 2–6 s, loop infinito, paleta del perfil, texto Consolas.
+Para regenerar: `python assets/make_gifs.py`. No añadir más GIFs
+sin eliminar antes algo (presupuesto: <150 KB en animación).

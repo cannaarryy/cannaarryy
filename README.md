@@ -8,7 +8,13 @@ Bilingual Profile: ES · EN — Dark · Premium · Minimal · Technical
 
 <img src="assets/hero.svg" alt="CANAARRY — Junior Web / Software Developer · DAW 2º · Web Backend APIs Automation AI">
 
-<p><sup><a href="#es--about-me">🇪🇸 ES</a> &nbsp;•&nbsp; <a href="#en--about-me">🇬🇧 EN</a></sup></p>
+<div align="center">
+
+<img src="assets/boot.gif" alt="System boot: profile, projects, stack, activity, ClientFlow, contact — system online">
+
+</div>
+
+<p><sup><a href="#es--about-me"><code>🇪🇸 ES</code></a> &nbsp;•&nbsp; <a href="#en--about-me"><code>🇬🇧 EN</code></a></sup></p>
 
 <p><sup>
 <a href="#es--about-me">about · sobre mí</a> ·
@@ -77,7 +83,7 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 
 | | |
 |---|---|
-| **Estado · Status** | `EN CONSTRUCCIÓN · BUILDING` |
+| **Estado · Status** | <img src="assets/online.gif" width="14" alt="live"> `DESARROLLO ACTIVO · ACTIVE DEVELOPMENT` |
 | **Objetivo · Goal** | CRM web completo · Complete web CRM |
 | **Tech** | Web · Backend · Database |
 | **Aprendiendo · Learning** | Arquitectura backend · APIs · Bases de datos · Backend architecture · APIs · Databases |
@@ -96,32 +102,56 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 <tr>
 <td width="50%" valign="top">
 
-### NOTYX FPS BOOSTER
-<sub>FiveM · Lua · `ACTIVO · ACTIVE`</sub>
+### PROJECT 01 — NOTYX FPS BOOSTER
+<sub>FiveM performance tool · Herramienta de rendimiento FiveM</sub>
 <br><br>
 <sub>🇪🇸 Menú que optimiza FPS: presets visuales, filtros y FPS en tiempo real. Standalone y ligero.</sub>
 <br>
 <sub>🇬🇧 FPS optimizer menu: visual presets, filters and live FPS. Standalone, lightweight.</sub>
 <br><br>
-<sub>Stack: `Lua` · ESX / QBCore / Qbox</sub>
-<br><br>
-<a href="https://github.com/cannaarryy/notyx-fps-booster">→ VIEW PROJECT · VER PROYECTO</a>
+<sub>STATUS · ESTADO: `ACTIVE · ACTIVO`</sub>
 <br>
-<a href="https://github.com/cannaarryy/notyx-fps-booster/blob/main/README.md">→ Detalles · Details</a>
+<sub>STACK: `Lua` · ESX / QBCore / Qbox</sub>
+<br>
+<sub>TYPE · TIPO: FiveM resource · Standalone · MIT</sub>
+<br><br>
+<a href="https://github.com/cannaarryy/notyx-fps-booster"><b>[ VIEW REPOSITORY · VER REPOSITORIO ]</b></a>
+<br>
+<details>
+<summary><sub>TECHNICAL DETAILS · DETALLES TÉCNICOS</sub></summary>
+<sub>🇪🇸 Presets ULTRA / RAPID / LOW / ORIGINAL · filtros (Noche Eterna, Niebla, B/N, Calor, Viñeta) · RESET instantáneo · FPS en tiempo real</sub>
+<br>
+<sub>🇬🇧 ULTRA / RAPID / LOW / ORIGINAL presets · filters · instant RESET · live FPS</sub>
+<br>
+<a href="https://github.com/cannaarryy/notyx-fps-booster/blob/main/README.md">→ Full docs · Docs completas</a>
+</details>
 
 </td>
 <td width="50%" valign="top">
 
-### NOTYX LOGS
-<sub>FiveM · Lua · `ACTIVO · ACTIVE`</sub>
+### PROJECT 02 — NOTYX LOGS
+<sub>FiveM logging system · Sistema de logs FiveM</sub>
 <br><br>
 <sub>🇪🇸 Sistema de logs del servidor: basic, chat, explosiones y txAdmin, con embeds de Discord.</sub>
 <br>
 <sub>🇬🇧 Server logging system: basic, chat, explosion and txAdmin logs with Discord embeds.</sub>
 <br><br>
-<sub>Stack: `Lua` · ox_lib · qbx/qb/esx</sub>
+<sub>STATUS · ESTADO: `ACTIVE · ACTIVO`</sub>
+<br>
+<sub>STACK: `Lua` · ox_lib · qbx / qb / esx</sub>
+<br>
+<sub>TYPE · TIPO: FiveM resource · v1.0.0</sub>
 <br><br>
-<a href="https://github.com/cannaarryy/Notyx-logs">→ VIEW PROJECT · VER PROYECTO</a>
+<a href="https://github.com/cannaarryy/Notyx-logs"><b>[ VIEW REPOSITORY · VER REPOSITORIO ]</b></a>
+<br>
+<details>
+<summary><sub>TECHNICAL DETAILS · DETALLES TÉCNICOS</sub></summary>
+<sub>🇪🇸 Categorías basic/chat/explosion/txAdmin · requiere ox_lib · config.lua (framework, logo, identificadores, colores) · locale EN</sub>
+<br>
+<sub>🇬🇧 basic/chat/explosion/txAdmin categories · requires ox_lib · config.lua (framework, logo, identifiers, colors) · EN locale</sub>
+<br>
+<a href="https://github.com/cannaarryy/Notyx-logs/blob/main/README.md">→ Full docs · Docs completas</a>
+</details>
 
 </td>
 </tr>
@@ -291,6 +321,8 @@ hidden achievement unlocked: [CURIOUS]
 <div align="center">
 
 <img src="assets/footer.svg" alt="Building in public · Learning in progress · Construyendo mientras aprendo">
+
+<p><sup><img src="assets/online.gif" width="14" alt="live"> SYSTEM ONLINE</sup></p>
 
 <p><sup>© 2026 cannaarryy — All rights reserved.</sup></p>
 <p><sup><a href="https://github.com/cannaarryy">⬆ Volver al inicio / Back to top</a></sup></p>
