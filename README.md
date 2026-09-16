@@ -1,152 +1,282 @@
 <div align="center">
 
 <br>
-<br>
 
 <!-- ══════════════ HERO ══════════════ -->
 
 <sup><code>github.com/cannaarryy</code></sup>
 
-# CANAARRY
+# CANNAARRY
 
-**Junior Web Developer / Software Developer**
+**Junior Web / Software Developer**
 
-<sup>2º DAW &nbsp;·&nbsp; Web &nbsp;·&nbsp; Backend &nbsp;·&nbsp; APIs &nbsp;·&nbsp; Automation &nbsp;·&nbsp; AI</sup>
+<sup>DAW · 2º año / 2nd year &nbsp;·&nbsp; Web &nbsp;·&nbsp; Backend &nbsp;·&nbsp; APIs &nbsp;·&nbsp; Automation &nbsp;·&nbsp; AI</sup>
+<br>
+<sup>+ experiencia práctica en FiveM / hands-on FiveM experience</sup>
 
 <br>
 
 *"Building things, breaking things, learning how to build them better."*
+<br>
+*«Construyendo, rompiendo y aprendiendo a construir mejor.»*
 
 <br>
 
-<!-- EDIT ME: replace # placeholders with your real URLs when they exist. -->
-<!-- Portfolio / LinkedIn / Email are intentionally placeholders — do NOT invent URLs. -->
+<sub>🇪🇸 Perfil bilingüe &nbsp;·&nbsp; 🇬🇧 Bilingual profile — lee en tu idioma · read in your language</sub>
+
+<br><br>
+
+<!-- EDIT ME: sustituye los #contacto--contact por URLs reales cuando existan. No inventes URLs. -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-cannaarryy-181818?style=flat-square&logo=github&logoColor=F5F5F5)](https://github.com/cannaarryy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-181818?style=flat-square&logo=firefox&logoColor=8A8A8A)](#contact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-coming_soon-181818?style=flat-square&logo=linkedin&logoColor=8A8A8A)](#contact)
-[![Email](https://img.shields.io/badge/Email-coming_soon-181818?style=flat-square&logo=gmail&logoColor=8A8A8A)](#contact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-181818?style=flat-square&logo=firefox&logoColor=8A8A8A)](#contacto--contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-coming_soon-181818?style=flat-square&logo=linkedin&logoColor=8A8A8A)](#contacto--contact)
+[![Email](https://img.shields.io/badge/Email-coming_soon-181818?style=flat-square&logo=gmail&logoColor=8A8A8A)](#contacto--contact)
 
-<br>
-<br>
+<br><br>
 
 <sup>
-<a href="#about-me">about</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#currently-building">building</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#tech-stack">stack</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#featured-projects">projects</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#developer-console">console</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#contact">contact</a>
+<a href="#sobre-mí--about">sobre mí · about</a> &nbsp;·&nbsp;
+<a href="#terminal">terminal</a> &nbsp;·&nbsp;
+<a href="#estado-del-sistema--system-status">estado · status</a> &nbsp;·&nbsp;
+<a href="#construyendo-ahora--now-building">building</a> &nbsp;·&nbsp;
+<a href="#proyectos--projects">proyectos · projects</a> &nbsp;·&nbsp;
+<a href="#stack-tecnológico--tech-stack">stack</a> &nbsp;·&nbsp;
+<a href="#actividad--activity">actividad · activity</a> &nbsp;·&nbsp;
+<a href="#debug-the-developer">debug</a> &nbsp;·&nbsp;
+<a href="#objetivos--goals">objetivos · goals</a> &nbsp;·&nbsp;
+<a href="#contacto--contact">contacto · contact</a>
 </sup>
 
 </div>
 
 <br>
+
+<img src="assets/divider.svg" alt="">
+
+<br><br>
+
+## SOBRE MÍ · ABOUT
+
+<!-- EDIT ME: texto corto, humano, sin clichés. Mantén ES y EN equivalentes. -->
+
+🇪🇸 Tengo 20 años y estudio 2º de DAW. Construyo proyectos reales mientras estudio,
+con el foco en desarrollo web y software: backend, APIs, bases de datos y automatización.
+También tengo experiencia práctica desarrollando sistemas FiveM en Lua. Ahora mismo estoy
+mejorando en arquitectura backend y desarrollo de producto, y me interesan oportunidades
+junior, prácticas y proyectos freelance.
+
+🇬🇧 I'm 20, studying the 2nd year of DAW (Web Application Development). I build real
+projects while I study, focused on web and software development: backend, APIs, databases
+and automation. I also have hands-on experience building FiveM systems in Lua. Right now
+I'm leveling up in backend architecture and product development, and I'm interested in
+junior roles, internships and freelance projects.
+
+<br><br>
+
+<img src="assets/divider.svg" alt="">
+
+<br><br>
+
+## TERMINAL
+
+<sub>🇪🇸 Quién soy en 30 segundos &nbsp;·&nbsp; 🇬🇧 Who I am in 30 seconds</sub>
+
 <br>
 
----
+<div align="center">
+
+<img src="assets/terminal-bar.svg" width="640" alt="terminal window">
+
+```bash
+$ whoami
+> junior_web_developer
+
+$ education
+> DAW · 2nd year
+
+$ currently_building
+> clientflow_crm
+
+$ focus
+> web / backend / apis / automation / ai
+
+$ experience
+> web_development + fivem_development [lua]
+
+$ status
+> open_to_opportunities
+```
+
+</div>
+
+<br><br>
+
+<img src="assets/divider.svg" alt="">
+
+<br><br>
+
+## ESTADO DEL SISTEMA · SYSTEM STATUS
+
+<table>
+<tr>
+<td width="35%"><b>Educación · Education</b></td>
+<td>DAW · 2º año / 2nd year</td>
+</tr>
+<tr>
+<td><b>Construyendo · Building</b></td>
+<td>ClientFlow — full-stack CRM</td>
+</tr>
+<tr>
+<td><b>Aprendiendo · Learning</b></td>
+<td>Arquitectura backend · APIs · Automatización · Integraciones IA<br>Backend architecture · APIs · Automation · AI integrations</td>
+</tr>
+<tr>
+<td><b>Buscando · Looking for</b></td>
+<td>Prácticas · Puestos junior · Freelance<br>Internships · Junior roles · Freelance</td>
+</tr>
+</table>
+
+<br><br>
+
+<img src="assets/divider.svg" alt="">
+
+<br><br>
+
+## CONSTRUYENDO AHORA · NOW BUILDING
+
+<!-- EDIT ME: cuando ClientFlow tenga repo público, añade su URL donde se indica. -->
+
+### CLIENTFLOW · FULL-STACK CRM
+
+<sub><code>BUILDING · EN CONSTRUCCIÓN</code></sub>
+
+🇪🇸 Mi proyecto principal actual: un CRM full-stack que estoy construyendo para
+practicar arquitectura backend real — API, base de datos y producto de principio a fin.
+El repositorio aún no es público; este bloque quedará conectado en cuanto lo sea.
+
+🇬🇧 My current main project: a full-stack CRM I'm building to practice real backend
+architecture — API, database and product, end to end. The repository isn't public yet;
+this block will be linked as soon as it is.
+
+| | |
+|---|---|
+| **Estado · Status** | `BUILDING · EN CONSTRUCCIÓN` |
+| **Tipo · Type** | CRM web full-stack · Full-stack web CRM |
+| **Stack objetivo · Target stack** | Web · Backend · Database |
+| **Aprendiendo con él · Learning with it** | Arquitectura backend · APIs · Bases de datos · Backend architecture · APIs · Databases |
+| **Repositorio · Repository** | `PRÓXIMAMENTE · COMING SOON` <!-- EDIT ME: pega aquí la URL del repo / paste repo URL here --> |
+
+<sub>🔍 debug note: rutas revisadas, el bug no está aquí · routes checked, bug's not here → [← debug](#debug-the-developer)</sub>
+
+<br><br>
+
+<img src="assets/divider.svg" alt="">
+
+<br><br>
+
+## PROYECTOS · PROJECTS
+
+<!-- Solo repos verificados en github.com/cannaarryy. No renombres URLs sin renombrar el repo. -->
+<!-- Only verified repos. "portfoliosjk" no existe como repo público (404): no se enlaza. -->
+
+<sub>🇪🇸 Calidad sobre cantidad: lo que hay es real &nbsp;·&nbsp; 🇬🇧 Quality over quantity: what's here is real</sub>
 
 <br>
-<br>
-
-## ABOUT ME
-
-<!-- EDIT ME: adjust this text freely, keep it short and human. -->
-
-I'm 20, studying 2nd year of DAW (Web Application Development) in Spain.
-
-I build real projects while I study — web apps, backends, small automations,
-and practical FiveM systems in Lua. Right now I'm most focused on backend,
-APIs, databases, automation and applied AI.
-
-I also have hands-on experience with FiveM (Lua, Qbox / QBCore / ESX, ox
-resources). It's part of my background, but what I'm building toward is a
-career as a web / software developer.
-
-Junior, but shipping real code and improving fast.
-
-<br>
-<br>
-
----
-
-<br>
-<br>
-
-## CURRENTLY BUILDING
-
-<!-- EDIT ME: update statuses as projects evolve. Keep COMING SOON honest. -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**ClientFlow** — Full-stack CRM
+### NOTYX LOGS
+<sub>FiveM · Lua · <code>LIVE · EN VIVO</code></sub>
+<br><br>
+<sub>🇪🇸 Sistema de logs del lado del servidor para servidores FiveM.</sub>
 <br>
-<sub><code>BUILDING</code> · web app in progress</sub>
+<sub>🇬🇧 Server-side logging system for FiveM servers.</sub>
+<br><br>
+<sub>Stack: <code>Lua</code> · FiveM</sub>
+<br><br>
+<a href="https://github.com/cannaarryy/Notyx-logs">→ Repository · Repositorio</a>
 
 </td>
 <td width="50%" valign="top">
 
-**Personal Portfolio** — Developer portfolio
+### NOTYX FPS BOOSTER
+<sub>FiveM · Lua · <code>LIVE · EN VIVO</code></sub>
+<br><br>
+<sub>🇪🇸 Menú optimizador de FPS: presets visuales, filtros especiales y FPS en tiempo real. Standalone y ligero.</sub>
 <br>
-<sub><code>BUILDING</code> · design + content in progress</sub>
+<sub>🇬🇧 FPS optimizer menu: visual presets, special filters and live FPS. Standalone, lightweight.</sub>
+<br><br>
+<sub>Stack: <code>Lua</code> · ESX / QBCore / Qbox</sub>
+<br><br>
+<a href="https://github.com/cannaarryy/notyx-fps-booster">→ Repository · Repositorio</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**AI Automation Project**
+### CLIENTFLOW
+<sub>Web · Full-stack · <code>BUILDING · EN CONSTRUCCIÓN</code></sub>
+<br><br>
+<sub>🇪🇸 CRM full-stack en desarrollo. Mi proyecto principal actual.</sub>
 <br>
-<sub><code>COMING SOON</code> · concept stage</sub>
+<sub>🇬🇧 Full-stack CRM under development. My current main project.</sub>
+<br><br>
+<sub>Stack: Web · Backend · Database</sub>
+<br><br>
+<a href="#construyendo-ahora--now-building">→ Ver estado · View status</a>
 
 </td>
 <td width="50%" valign="top">
 
-**FiveM System** — new server-side system
+### PORTFOLIO
+<sub>Web · <code>PRÓXIMAMENTE · COMING SOON</code></sub>
+<br><br>
+<sub>🇪🇸 Portfolio de desarrollador, en construcción.</sub>
 <br>
-<sub><code>COMING SOON</code> · concept stage</sub>
+<sub>🇬🇧 Developer portfolio, under construction.</sub>
+<br><br>
+<sub>Stack: Web</sub>
+<br><br>
+<sub>Sin repositorio público todavía · No public repo yet</sub>
 
 </td>
 </tr>
 </table>
 
-<sub>Statuses are honest on purpose. <code>BUILDING</code> = code exists.
-<code>COMING SOON</code> = planned, not started or not public yet.</sub>
+<br><br>
 
-<br>
-<br>
+<img src="assets/divider.svg" alt="">
 
----
+<br><br>
 
-<br>
-<br>
+## STACK TECNOLÓGICO · TECH STACK
 
-## TECH STACK
+<!-- EDIT ME: añade/quita solo lo que uses de verdad. Menos es más. -->
+<!-- Solo texto: sin muro de badges a propósito. / Plain text on purpose: no badge wall. -->
 
-<!-- EDIT ME: add/remove only what you actually use. Less is more. -->
-<!-- Presented as plain text on purpose — no badge wall. Grouped for scanning in ~10 seconds. -->
-
-**LANGUAGES**
+**LENGUAJES · LANGUAGES**
 <br>
 `HTML` `CSS` `JavaScript` `Java` `Lua` `SQL`
 
 <br><br>
 
-**WEB**
+**WEB / BACKEND**
 <br>
 `Node.js` `Express` `REST APIs`
 
 <br><br>
 
-**DATABASE**
+**BASE DE DATOS · DATABASE**
 <br>
 `MySQL`
 
 <br><br>
 
-**TOOLS**
+**HERRAMIENTAS · TOOLS**
 <br>
 `Git` `GitHub` `VS Code`
 
@@ -158,270 +288,207 @@ Junior, but shipping real code and improving fast.
 
 <br><br>
 
-**AI / AUTOMATION**
+**AUTOMATIZACIÓN / IA · AUTOMATION / AI**
 <br>
 `APIs` `AI integrations` `Automation scripts`
 
 <br>
 
-<sub>Listed = actually used in projects. Not a wishlist.</sub>
+<sub>🇪🇸 Listado = usado en proyectos o estudios. No es una wishlist. &nbsp;·&nbsp; 🇬🇧 Listed = used in projects or studies. Not a wishlist.</sub>
+<br>
+<sub>🔍 debug note: el stack compila. El bug no está aquí · the stack compiles, bug's not here → [← debug](#debug-the-developer)</sub>
+
+<br><br>
+
+<img src="assets/divider.svg" alt="">
+
+<br><br>
+
+## ACTIVIDAD · ACTIVITY
+
+<!-- Sin widgets externos a propósito: los servicios públicos de stats están caídos/no fiables
+     (github-readme-stats → 503, activity-graph → 402, verificado 2026-09-16).
+     Datos 100% verificados vía GitHub API. Cero dependencias que puedan romperse. -->
+
+<sub>🇪🇸 Datos reales, sin tarjetas que puedan romperse &nbsp;·&nbsp; 🇬🇧 Real data, no cards that can break</sub>
 
 <br>
-<br>
-
----
-
-<br>
-<br>
-
-## FEATURED PROJECTS
-
-<!-- EDIT ME: when ClientFlow / Portfolio / AI project get a repo, replace the COMING SOON link. -->
-<!-- Real repos verified from github.com/cannaarryy — do not rename without renaming the repo. -->
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<br>
 
-### CLIENTFLOW
-<sub>Full-stack CRM</sub>
-<br><br>
-<sub>CRM web app — currently in development.</sub>
-<br><br>
-<sub><code>BUILDING</code></sub>
-<br><br>
-<sub>Stack: web · backend · database</sub>
-<br><br>
-<a href="#currently-building">→ View status</a>
+**REPOS PÚBLICOS**
+**PUBLIC REPOS**
+
+**`03`**
+
+<sub>cannaarryy · notyx-fps-booster · Notyx-logs</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<br>
 
-### NOTYX FPS BOOSTER
-<sub>FiveM / Lua</sub>
-<br><br>
-<sub>FPS optimizer menu. Visual presets (ULTRA / RAPID / LOW / ORIGINAL), special filters and live FPS — standalone, lightweight.</sub>
-<br><br>
-<sub><code>LIVE</code></sub>
-<br><br>
-<sub>Stack: <code>Lua</code> · ESX / QBCore / Qbox</sub>
-<br><br>
-<a href="https://github.com/cannaarryy/notyx-fps-booster">→ Open repository</a>
+**LENGUAJE VERIFICADO**
+**VERIFIED LANGUAGE**
+
+**`Lua`**
+
+<sub>100% en Notyx-logs · vía GitHub API</sub>
+<br>
+<sub>100% in Notyx-logs · via GitHub API</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<br>
 
-### NOTYX LOGS
-<sub>FiveM / Lua</sub>
-<br><br>
-<sub>Logging system for FiveM servers.</sub>
-<br><br>
-<sub><code>LIVE</code></sub>
-<br><br>
-<sub>Stack: <code>Lua</code></sub>
-<br><br>
-<a href="https://github.com/cannaarryy/Notyx-logs">→ Open repository</a>
+**FOCO ACTUAL**
+**CURRENT FOCUS**
+
+**`ClientFlow`**
+
+<sub>CRM full-stack · en construcción</sub>
+<br>
+<sub>Full-stack CRM · under construction</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<br>
 
-### AI AUTOMATION
-<sub>AI / Automation</sub>
-<br><br>
-<sub>Applied AI + automation experiments.</sub>
-<br><br>
-<sub><code>COMING SOON</code></sub>
-<br><br>
-<sub>Stack: APIs · automation</sub>
-<br><br>
-<a href="#currently-building">→ View status</a>
+**BASE**
+**BASE**
+
+**`DAW-2`**
+
+<sub>Desarrollo web · 20 años</sub>
+<br>
+<sub>Web development · age 20</sub>
 
 </td>
 </tr>
 </table>
 
 <br>
+
+<sub>🇪🇸 El grafo de contribuciones nativo de este perfil es la fuente de verdad. Este dashboard es estático a propósito: ningún servicio externo puede dejarlo en blanco. &nbsp;·&nbsp; 🇬🇧 This profile's native contribution graph is the source of truth. This dashboard is static on purpose: no external service can blank it.</sub>
 <br>
-
----
-
-<br>
-<br>
-
-## DEVELOPER CONSOLE
-
-<!-- This entire section works with pure GitHub Markdown/HTML. No JavaScript. -->
-<!-- Links = anchor navigation. <details> = real expand/collapse interaction. -->
-
-<sub>An interactive corner. Everything below actually works on GitHub.</sub>
-
-<br>
-
-```bash
-$ whoami
-> junior_web_developer — 2º DAW
-
-$ status
-> learning backend · building clientflow · open to freelance
-
-$ ls ./profile
-> about/  building/  stack/  projects/  contact/
-```
-
-<br>
-
-**Choose your path ↓**
-
-<sub>→ Recruiter?</sub> Start with [`about`](#about-me), then [`projects`](#featured-projects).
-<br>
-<sub>→ Developer?</sub> Jump to [`stack`](#tech-stack), then try the `debug challenge` below.
-<br>
-<sub>→ Just curious?</sub> Open the [`easter egg`](#developer-console) at the bottom.
-
-<br>
-
-**Quick nav**
-
-[<code>explore projects</code>](#featured-projects) &nbsp;&nbsp;
-[<code>inspect stack</code>](#tech-stack) &nbsp;&nbsp;
-[<code>see what i'm building</code>](#currently-building) &nbsp;&nbsp;
-[<code>contact me</code>](#contact)
+<sub>🔍 debug note: hay commits en el grafo. El bug no está aquí · commits exist on the graph, bug's not here → [← debug](#debug-the-developer)</sub>
 
 <br><br>
 
-#### → Debug challenge
+<img src="assets/divider.svg" alt="">
 
-<sub>A 30-second test. No JS — just click to expand each option.</sub>
-
-**The bug:** your `GET /api/clients` returns `404` in production, but works locally.
-The route file exists. The server starts with no errors. What do you check first?
-
-<details>
-<summary><code>A — rewrite the whole API from scratch</code></summary>
-<br>
-❌ Tempting. Wrong move. Never rewrite before reading the error. Close this and think like a debugger, not a demolition crew.
-</details>
-
-<details>
-<summary><code>B — check route prefix, deploy config and logs</code></summary>
-<br>
-✅ Correct. Classic junior-to-mid lesson: local ≠ production. Route mounted under <code>/api</code> locally but not in prod, missing env var, or reverse-proxy stripping the prefix — logs tell you in seconds.
 <br><br>
-<i>You debug like me. We'd get along.</i> → <a href="#contact">say hi</a>
-</details>
 
-<details>
-<summary><code>C — assume GitHub is down</code></summary>
+## DEBUG THE DEVELOPER
+
+<sub>🇪🇸 Algo está roto. Elige una hipótesis. &nbsp;·&nbsp; 🇬🇧 Something is broken. Pick a hypothesis.</sub>
 <br>
-❌ Creative. Incorrect. Step away from the keyboard, drink water, try B.
-</details>
+<sub>Sin JavaScript: solo anchors · No JavaScript: anchors only</sub>
 
 <br>
 
-#### → Easter egg
-
-<details>
-<summary><code>$ run easter_egg.sh</code> — click to execute (safe, promise)</summary>
+**[1] Missing semicolon → punto y coma perdido**
 <br>
+<sub>Revisa dónde se escribe el código · Check where code is written →</sub> [`stack`](#stack-tecnológico--tech-stack)
+
+<br><br>
+
+**[2] Wrong API endpoint → endpoint equivocado**
+<br>
+<sub>Revisa dónde viven las rutas · Check where routes live →</sub> [`now building`](#construyendo-ahora--now-building)
+
+<br><br>
+
+**[3] Developer forgot to commit → el dev olvidó commitear**
+<br>
+<sub>Revisa la evidencia · Check the evidence →</sub> [`activity`](#actividad--activity)
+
+<br><br>
+
+**[4] It works on my machine™ → en mi máquina funciona™**
+<br>
+<sub>La respuesta favorita de todo dev · Every dev's favorite answer →</sub> [`ejecutar diagnóstico · run diagnostics`](#debug-complete)
+
+<br><br>
+
+#### DEBUG COMPLETE
 
 ```text
-loading personality modules...
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100%
+✓ diagnosis finished — 0 bugs found
 
-> trait_01: breaks things on purpose to learn
-> trait_02: reads docs before asking
-> trait_03: actually finishes side projects (sometimes)
-> trait_04: fiveM background, web developer future
+> 🇪🇸 No había ningún bug. Solo tenías que seguir bajando.
+> 🇬🇧 There was no bug. You just needed to keep scrolling.
 
 hidden achievement unlocked: [CURIOUS]
-you clicked a README easter egg. respect.
 ```
 
-<sub>Now that you're here — the fastest way to reach me is below. ↓</sub>
-<br>
-<a href="#contact"><code>contact.exe</code></a>
-
-</details>
-
-<br>
-<br>
-
----
-
-<br>
-<br>
-
-## GITHUB ACTIVITY
-
-<!-- Only 2 external widgets on purpose: stats card + activity graph. Both themed to match the palette. -->
-<!-- If either service is down, the rest of the README is unaffected (plain <img> with alt text). -->
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=cannaarryy&show_icons=true&theme=dark&bg_color=0A0A0A&border_color=242424&title_color=FFFFFF&text_color=8A8A8A&icon_color=FFFFFF&hide_border=false"
-  alt="GitHub stats for cannaarryy"
-/>
+<sub>→ [← volver al debug · back to debug](#debug-the-developer) &nbsp;·&nbsp; [contacto · contact](#contacto--contact)</sub>
 
 <br><br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=cannaarryy&bg_color=0A0A0A&color=F5F5F5&line=FFFFFF&point=8A8A8A&area=true&hide_border=true"
-  alt="Contribution activity graph for cannaarryy"
-/>
+<img src="assets/divider.svg" alt="">
 
-<br>
+<br><br>
 
-<sub>Native contribution graph on the profile is the source of truth — these cards are just a summary.</sub>
+## OBJETIVOS · GOALS
 
-</div>
+<!-- Una línea por objetivo, ambos idiomas inline: compacto y 100% bilingüe. -->
 
-<br>
-<br>
+- Terminar DAW · Finish DAW
+- Construir proyectos reales tipo producción · Build real production-like projects
+- Mejorar arquitectura backend · Improve backend architecture
+- Mejorar APIs y bases de datos · Improve APIs and databases
+- Aprender integraciones IA · Learn AI integrations
+- Construir sistemas de automatización · Build automation systems
+- Conseguir experiencia profesional · Gain professional experience
 
----
+<br><br>
 
-<br>
-<br>
+<img src="assets/divider.svg" alt="">
 
-## CONTACT
+<br><br>
+
+## CONTACTO · CONTACT
 
 <div align="center">
 
-### LET'S BUILD SOMETHING
+### HAGAMOS ALGO · LET'S BUILD SOMETHING
 
-<sub>Studying, building, and open to small freelance work and collaborations.</sub>
+<sub>🇪🇸 Estudiando, construyendo y abierto a freelance y colaboraciones.</sub>
+<br>
+<sub>🇬🇧 Studying, building, and open to freelance work and collaborations.</sub>
 
 <br><br>
 
 | | |
 |---|---|
 | **GitHub** | https://github.com/cannaarryy |
-| **Portfolio** | `PLACEHOLDER — add URL here` |
-| **LinkedIn** | `PLACEHOLDER — add URL here` |
-| **Email** | `PLACEHOLDER — add email here` |
+| **Portfolio** | `PLACEHOLDER — añade la URL · add URL here` |
+| **LinkedIn** | `PLACEHOLDER — añade la URL · add URL here` |
+| **Email** | `PLACEHOLDER — añade el email · add email here` |
 
 <br>
 
-<!-- EDIT ME: when you have portfolio/linkedin/email, replace the PLACEHOLDER rows above
-     AND the shield links in the HERO section. Keep it to these 4 channels. -->
+<!-- EDIT ME: al tener portfolio/linkedin/email, sustituye los PLACEHOLDER de arriba
+     Y los shields del HERO. Solo estos 4 canales. / Same 4 channels, nothing more. -->
 
-<sub>If you're a recruiter, dev, or server owner — open an issue, PR, or just say hi.</sub>
+<sub>🇪🇸 Recruiters, devs o owners de servidores: abrid un issue, un PR o simplemente saludad. &nbsp;·&nbsp; 🇬🇧 Recruiters, devs or server owners: open an issue, a PR, or just say hi.</sub>
 
 </div>
 
-<br>
-<br>
+<br><br>
 
----
+<img src="assets/divider.svg" alt="">
 
 <br>
 
 <div align="center">
 
-<sub>Still learning. Still building.</sub>
+<sub>CONSTRUYENDO EN PÚBLICO · BUILDING IN PUBLIC</sub>
 <br>
 <sub><code>cannaarryy</code> · 2026</sub>
 <br><br>
