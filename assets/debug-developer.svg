@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <title>Debug the developer — cannaarryy</title>
+  <desc>Visual debug console. Not executable. Follow the markdown links below it to play.</desc>
+  <rect width="1198" height="428" x="1" y="1" rx="8" fill="#0A0A0A" stroke="#222222"/>
+  <text x="40" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8A8A8A">debug_console.exe -- process_id: 404</text>
+  <line x1="1" y1="72" x2="1199" y2="72" stroke="#222222"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="40" y="128" font-size="26" letter-spacing="2" fill="#F5F5F5">SYS_ERROR // DEVELOPER_NOT_FOUND</text>
+    <text x="40" y="164" font-size="15" fill="#8A8A8A">Estado: esperando intervención / Status: waiting for input…</text>
+    <text x="40" y="214" font-size="17" fill="#F5F5F5">[1] Missing semicolon      → punto y coma perdido</text>
+    <text x="40" y="250" font-size="17" fill="#F5F5F5">[2] Wrong API endpoint     → endpoint equivocado</text>
+    <text x="40" y="286" font-size="17" fill="#F5F5F5">[3] Forgot to commit       → olvidó commitear</text>
+    <text x="40" y="322" font-size="17" fill="#F5F5F5">[4] Works on my machine™   → en mi máquina funciona™</text>
+    <rect x="40" y="348" width="380" height="48" rx="4" fill="#111111" stroke="#38BDF8"/>
+    <text x="66" y="378" font-size="16" letter-spacing="1" fill="#F5F5F5">&gt; START DEBUGGING</text>
+    <text x="440" y="378" font-size="14" fill="#8A8A8A">[ usa los enlaces de abajo · use the links below ]</text>
+  </g>
+</svg>
