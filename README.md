@@ -5,17 +5,9 @@ Bilingual Profile: ES · EN — Dark · Premium · Minimal · Technical
 -->
 
 <div align="center">
-
-<img src="assets/hero.svg" alt="CANAARRY — Junior Web / Software Developer · DAW 2º · Web Backend APIs Automation AI">
-
-<div align="center">
-
-<img src="assets/boot.gif" alt="System boot: profile, projects, stack, activity, ClientFlow, contact — system online">
-
-</div>
-
+<img src="assets/hero.svg" width="100%" alt="CANAARRY — Junior Web / Software Developer · DAW 2º · Web Backend APIs Automation AI">
+<img src="assets/boot.gif" width="100%" alt="System boot: profile, projects, stack, activity, ClientFlow, contact — system online">
 <p><sup><a href="#es--about-me"><code>🇪🇸 ES</code></a> &nbsp;•&nbsp; <a href="#en--about-me"><code>🇬🇧 EN</code></a></sup></p>
-
 <p><sup>
 <a href="#es--about-me">about · sobre mí</a> ·
 <a href="#terminal">terminal</a> ·
@@ -28,10 +20,9 @@ Bilingual Profile: ES · EN — Dark · Premium · Minimal · Technical
 <a href="#objetivos--goals">goals · objetivos</a> ·
 <a href="#contacto--contact">contact · contacto</a>
 </sup></p>
-
 </div>
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## ES • ABOUT ME
 
@@ -45,31 +36,27 @@ I'm 20 years old and currently in my second year of DAW. My main focus is web an
 
 I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): it's part of my background, but my goal is to grow as a Web / Software Developer.
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## TERMINAL
 
 <sub>🇪🇸 Quién soy en 30 segundos · 🇬🇧 Who I am in 30 seconds</sub>
 
 <div align="center">
-
-<img src="assets/terminal.svg" alt="Terminal: whoami, education, building ClientFlow, focus, experience, status">
-
+<img src="assets/terminal.svg" width="100%" alt="Terminal: experience, availability, languages, contact, now building ClientFlow, next finish DAW">
 </div>
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## ESTADO DEL SISTEMA · SYSTEM STATUS
 
 <div align="center">
-
-<img src="assets/system-status.svg" alt="System status: DAW 2º, ClientFlow active project, Web Backend APIs AI, open to opportunities">
-
+<img src="assets/system-status.svg" width="100%" alt="System status: DAW 2º, ClientFlow active project, Web Backend APIs AI, open to opportunities">
 </div>
 
 <sub>🇪🇸 2º DAW · construyendo ClientFlow · abierto a prácticas, junior y freelance · 🇬🇧 DAW 2nd year · building ClientFlow · open to internships, junior roles and freelance</sub>
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## CONSTRUYENDO · NOW BUILDING
 
@@ -89,7 +76,7 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 | **Aprendiendo · Learning** | Arquitectura backend · APIs · Bases de datos · Backend architecture · APIs · Databases |
 | **Repo** | `PRÓXIMAMENTE · COMING SOON` |
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## PROYECTOS · PROJECTS
 
@@ -104,17 +91,17 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 
 ### PROJECT 01 — NOTYX FPS BOOSTER
 <sub>FiveM performance tool · Herramienta de rendimiento FiveM</sub>
-<br><br>
+<br>
 <sub>🇪🇸 Menú que optimiza FPS: presets visuales, filtros y FPS en tiempo real. Standalone y ligero.</sub>
 <br>
 <sub>🇬🇧 FPS optimizer menu: visual presets, filters and live FPS. Standalone, lightweight.</sub>
-<br><br>
+<br>
 <sub>STATUS · ESTADO: `ACTIVE · ACTIVO`</sub>
 <br>
 <sub>STACK: `Lua` · ESX / QBCore / Qbox</sub>
 <br>
 <sub>TYPE · TIPO: FiveM resource · Standalone · MIT</sub>
-<br><br>
+<br>
 <a href="https://github.com/cannaarryy/notyx-fps-booster"><b>[ VIEW REPOSITORY · VER REPOSITORIO ]</b></a>
 <br>
 <details>
@@ -131,17 +118,17 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 
 ### PROJECT 02 — NOTYX LOGS
 <sub>FiveM logging system · Sistema de logs FiveM</sub>
-<br><br>
+<br>
 <sub>🇪🇸 Sistema de logs del servidor: basic, chat, explosiones y txAdmin, con embeds de Discord.</sub>
 <br>
 <sub>🇬🇧 Server logging system: basic, chat, explosion and txAdmin logs with Discord embeds.</sub>
-<br><br>
+<br>
 <sub>STATUS · ESTADO: `ACTIVE · ACTIVO`</sub>
 <br>
 <sub>STACK: `Lua` · ox_lib · qbx / qb / esx</sub>
 <br>
 <sub>TYPE · TIPO: FiveM resource · v1.0.0</sub>
-<br><br>
+<br>
 <a href="https://github.com/cannaarryy/Notyx-logs"><b>[ VIEW REPOSITORY · VER REPOSITORIO ]</b></a>
 <br>
 <details>
@@ -157,7 +144,7 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 </tr>
 </table>
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## STACK
 
@@ -167,41 +154,29 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 <br>
 `HTML` `CSS` `JavaScript`
 
-<br><br>
-
 **BACKEND**
 <br>
 `Node.js` `Express` `REST APIs`
-
-<br><br>
 
 **DATABASE · BASE DE DATOS**
 <br>
 `SQL` `MySQL`
 
-<br><br>
-
 **LANGUAGES · LENGUAJES**
 <br>
 `JavaScript` `Java` `Lua`
-
-<br><br>
 
 **TOOLS · HERRAMIENTAS**
 <br>
 `Git` `GitHub` `VS Code`
 
-<br><br>
-
 **EXPERIENCE · EXPERIENCIA**
 <br>
 `FiveM` `Qbox` `QBCore` `ESX` `ox_lib` `ox_target` `ox_inventory`
 
-<br>
-
 <sub>🇪🇸 Listado = usado de verdad, no wishlist · 🇬🇧 Listed = actually used, not a wishlist</sub>
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## GITHUB · ACTIVITY
 
@@ -209,55 +184,41 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
      Sin servidores externos. Se regeneran a diario. / No external servers. Regenerated daily. -->
 
 <div align="center">
-
-<img src="assets/stats-frame.svg" alt="GitHub activity — auto-generated real data">
-
-<br><br>
-
-<img src="generated/overview.svg" alt="Resumen: repos, stars y forks · Overview: repos, stars and forks">
-<img src="generated/languages.svg" alt="Lenguajes · Languages">
-
+<img src="assets/stats-frame.svg" width="100%" alt="GitHub activity — auto-generated real data">
+<br>
+<img src="generated/overview.svg" width="49%" alt="Resumen: repos, stars y forks · Overview: repos, stars and forks">
+<img src="generated/languages.svg" width="49%" alt="Lenguajes · Languages">
 </div>
 
 <sub>🇪🇸 Generado automáticamente con datos reales · 🇬🇧 Auto-generated with real data</sub>
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## DEBUG THE DEVELOPER
 
 <sub>🇪🇸 El scan encontró 4 bugs. Clasifícalos · 🇬🇧 The scan found 4 bugs. Triage them — sin JavaScript · no JavaScript, anchors only</sub>
 
 <div align="center">
-
 <a href="https://github.com/cannaarryy/cannaarryy/issues/new">
-<img src="assets/debug-developer.svg" alt="Debug scan: developer detected — pulsa para abrir un issue · click to open an issue">
+<img src="assets/debug-developer.svg" width="100%" alt="Debug scan: developer detected — pulsa para abrir un issue · click to open an issue">
 </a>
-
 </div>
 
 **[1] Missing semicolon → punto y coma perdido**
 <br>
 <sub>Revisa dónde se escribe código · Check where code is written →</sub> [`stack`](#stack)
 
-<br><br>
-
 **[2] Wrong API endpoint → endpoint equivocado**
 <br>
 <sub>Revisa dónde viven las rutas · Check where routes live →</sub> [`now building`](#construyendo--now-building)
-
-<br><br>
 
 **[3] Forgot to commit → olvidó commitear**
 <br>
 <sub>Revisa la evidencia · Check the evidence →</sub> [`activity`](#github--activity)
 
-<br><br>
-
 **[4] Works on my machine™ → en mi máquina funciona™**
 <br>
 <sub>La respuesta favorita de todo dev · Every dev's favorite answer →</sub> [`run diagnostics · ejecutar diagnóstico`](#debug-complete)
-
-<br><br>
 
 #### DEBUG COMPLETE
 
@@ -272,7 +233,7 @@ hidden achievement unlocked: [CURIOUS]
 
 <sub>→ [← back to debug · volver al debug](#debug-the-developer) · [contact](#contacto--contact)</sub>
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## OBJETIVOS · GOALS
 
@@ -285,17 +246,15 @@ hidden achievement unlocked: [CURIOUS]
 - Crear automatizaciones · Build automation systems
 - Conseguir experiencia profesional · Gain professional experience
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 ## CONTACTO · CONTACT
 
 <div align="center">
-
-**HAGAMOS ALGO · LET'S BUILD SOMETHING**
-
+<b>HAGAMOS ALGO · LET'S BUILD SOMETHING</b>
+<br>
 <sub>🇪🇸 Estudiando, construyendo y abierto a freelance y colaboraciones · 🇬🇧 Studying, building, and open to freelance work and collaborations</sub>
-
-<br><br>
+<br>
 
 | | |
 |---|---|
@@ -303,28 +262,18 @@ hidden achievement unlocked: [CURIOUS]
 | **Portfolio** | `PLACEHOLDER — añade la URL · add URL here` |
 | **LinkedIn** | `PLACEHOLDER — añade la URL · add URL here` |
 | **Email** | `PLACEHOLDER — añade el email · add email here` |
-
 <br>
-
 <!-- EDIT ME: al tener portfolio/linkedin/email, sustituye los PLACEHOLDER. / Replace PLACEHOLDERs when available. -->
-
 <sub>🇪🇸 Recruiters, devs o owners: abrid un issue, un PR o saludad · 🇬🇧 Recruiters, devs or owners: open an issue, a PR, or just say hi</sub>
-
 <br>
-
 [→ Abre un issue · Open an issue](https://github.com/cannaarryy/cannaarryy/issues) · [→ PR](https://github.com/cannaarryy/cannaarryy/pulls)
-
 </div>
 
-<img src="assets/section-divider.svg" alt="">
+<img src="assets/section-divider.svg" width="100%" alt="">
 
 <div align="center">
-
-<img src="assets/footer.svg" alt="Building in public · Learning in progress · Construyendo mientras aprendo">
-
+<img src="assets/footer.svg" width="100%" alt="Building in public · Learning in progress · Construyendo mientras aprendo">
 <p><sup><img src="assets/online.gif" width="14" alt="live"> SYSTEM ONLINE</sup></p>
-
 <p><sup>© 2026 cannaarryy — All rights reserved.</sup></p>
 <p><sup><a href="https://github.com/cannaarryy">⬆ Volver al inicio / Back to top</a></sup></p>
-
 </div>

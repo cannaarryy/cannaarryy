@@ -1,26 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="388" viewBox="0 0 1200 388">
   <title>System status — cannaarryy</title>
   <desc>2x2 status grid: education, building, focus, availability. Bilingual ES/EN.</desc>
-  <rect width="1198" height="428" x="1" y="1" rx="8" fill="#0A0A0A" stroke="#222222"/>
-  <text x="40" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="3" fill="#F5F5F5">SYSTEM STATUS // ESTADO DEL SISTEMA</text>
-  <line x1="40" y1="72" x2="1160" y2="72" stroke="#222222"/>
+  <rect width="1198" height="386" x="1" y="1" rx="8" fill="#0A0A0A" stroke="#222222"/>
+  <text x="40" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="3" fill="#F5F5F5">SYSTEM STATUS // ESTADO DEL SISTEMA</text>
+  <line x1="40" y1="68" x2="1160" y2="68" stroke="#222222"/>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <rect x="40" y="100" width="540" height="140" rx="6" fill="#0D0D0D" stroke="#222222"/>
-    <text x="68" y="142" font-size="13" letter-spacing="2" fill="#8A8A8A">EDUCATION // EDUCACIÓN</text>
-    <text x="68" y="182" font-size="20" fill="#F5F5F5">DAW · 2º YEAR</text>
-    <text x="68" y="210" font-size="14" fill="#8A8A8A">Desarrollo de Aplicaciones Web</text>
-    <rect x="620" y="100" width="540" height="140" rx="6" fill="#0D0D0D" stroke="#222222"/>
-    <text x="648" y="142" font-size="13" letter-spacing="2" fill="#8A8A8A">BUILDING // CONSTRUYENDO</text>
-    <text x="648" y="182" font-size="20" fill="#F5F5F5">ClientFlow <tspan fill="#38BDF8">[active_project]</tspan></text>
-    <text x="648" y="210" font-size="14" fill="#8A8A8A">Full-stack CRM · in development</text>
-    <rect x="40" y="262" width="540" height="140" rx="6" fill="#0D0D0D" stroke="#222222"/>
-    <text x="68" y="304" font-size="13" letter-spacing="2" fill="#8A8A8A">FOCUS // ENFOQUE</text>
-    <text x="68" y="344" font-size="20" fill="#F5F5F5">Web · Backend · APIs · AI</text>
-    <text x="68" y="372" font-size="14" fill="#8A8A8A">Automation · Databases</text>
-    <rect x="620" y="262" width="540" height="140" rx="6" fill="#0D0D0D" stroke="#222222"/>
-    <text x="648" y="304" font-size="13" letter-spacing="2" fill="#8A8A8A">STATUS // ESTADO</text>
-    <circle cx="654" cy="338" r="5" fill="#38BDF8"/>
-    <text x="668" y="345" font-size="18" fill="#F5F5F5">OPEN TO OPPORTUNITIES</text>
-    <text x="648" y="372" font-size="14" fill="#8A8A8A">Abierto a oportunidades</text>
+    <rect x="40" y="92" width="540" height="132" rx="6" fill="#0D0D0D" stroke="#222222"/>
+    <text x="68" y="132" font-size="13" letter-spacing="2" fill="#8A8A8A">EDUCATION // EDUCACIÓN</text>
+    <text x="68" y="170" font-size="20" fill="#F5F5F5">DAW · 2º YEAR</text>
+    <text x="68" y="198" font-size="14" fill="#8A8A8A">Desarrollo de Aplicaciones Web</text>
+    <rect x="620" y="92" width="540" height="132" rx="6" fill="#0D0D0D" stroke="#222222"/>
+    <text x="648" y="132" font-size="13" letter-spacing="2" fill="#8A8A8A">BUILDING // CONSTRUYENDO</text>
+    <text x="648" y="170" font-size="20" fill="#F5F5F5">ClientFlow <tspan fill="#38BDF8">[active_project]</tspan></text>
+    <text x="648" y="198" font-size="14" fill="#8A8A8A">Full-stack CRM · in development</text>
+    <rect x="40" y="236" width="540" height="132" rx="6" fill="#0D0D0D" stroke="#222222"/>
+    <text x="68" y="276" font-size="13" letter-spacing="2" fill="#8A8A8A">FOCUS // ENFOQUE</text>
+    <text x="68" y="314" font-size="20" fill="#F5F5F5">Web · Backend · APIs · AI</text>
+    <text x="68" y="342" font-size="14" fill="#8A8A8A">Automation · Databases</text>
+    <rect x="620" y="236" width="540" height="132" rx="6" fill="#0D0D0D" stroke="#222222"/>
+    <text x="648" y="276" font-size="13" letter-spacing="2" fill="#8A8A8A">STATUS // ESTADO</text>
+    <circle cx="654" cy="308" r="5" fill="#38BDF8"/>
+    <text x="668" y="315" font-size="18" fill="#F5F5F5">OPEN TO OPPORTUNITIES</text>
+    <text x="648" y="342" font-size="14" fill="#8A8A8A">Abierto a oportunidades</text>
   </g>
 </svg>
