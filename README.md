@@ -1,497 +1,347 @@
-<div align="center">
-
-<br>
-
-<!-- ══════════════ HERO ══════════════ -->
-
-<sup><code>github.com/cannaarryy</code></sup>
-
-# CANNAARRY
-
-**Junior Web / Software Developer**
-
-<sup>DAW · 2º año / 2nd year &nbsp;·&nbsp; Web &nbsp;·&nbsp; Backend &nbsp;·&nbsp; APIs &nbsp;·&nbsp; Automation &nbsp;·&nbsp; AI</sup>
-<br>
-<sup>+ experiencia práctica en FiveM / hands-on FiveM experience</sup>
-
-<br>
-
-*"Building things, breaking things, learning how to build them better."*
-<br>
-*«Construyendo, rompiendo y aprendiendo a construir mejor.»*
-
-<br>
-
-<sub>🇪🇸 Perfil bilingüe &nbsp;·&nbsp; 🇬🇧 Bilingual profile — lee en tu idioma · read in your language</sub>
-
-<br><br>
-
-<!-- EDIT ME: sustituye los #contacto--contact por URLs reales cuando existan. No inventes URLs. -->
-
-[![GitHub](https://img.shields.io/badge/GitHub-cannaarryy-181818?style=flat-square&logo=github&logoColor=F5F5F5)](https://github.com/cannaarryy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-181818?style=flat-square&logo=firefox&logoColor=8A8A8A)](#contacto--contact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-coming_soon-181818?style=flat-square&logo=linkedin&logoColor=8A8A8A)](#contacto--contact)
-[![Email](https://img.shields.io/badge/Email-coming_soon-181818?style=flat-square&logo=gmail&logoColor=8A8A8A)](#contacto--contact)
-
-<br><br>
-
-<sup>
-<a href="#sobre-mí--about">sobre mí · about</a> &nbsp;·&nbsp;
-<a href="#terminal">terminal</a> &nbsp;·&nbsp;
-<a href="#estado-del-sistema--system-status">estado · status</a> &nbsp;·&nbsp;
-<a href="#construyendo-ahora--now-building">building</a> &nbsp;·&nbsp;
-<a href="#proyectos--projects">proyectos · projects</a> &nbsp;·&nbsp;
-<a href="#stack-tecnológico--tech-stack">stack</a> &nbsp;·&nbsp;
-<a href="#actividad--activity">actividad · activity</a> &nbsp;·&nbsp;
-<a href="#debug-the-developer">debug</a> &nbsp;·&nbsp;
-<a href="#objetivos--goals">objetivos · goals</a> &nbsp;·&nbsp;
-<a href="#contacto--contact">contacto · contact</a>
-</sup>
-
-</div>
-
-<br>
-
-<img src="assets/divider.svg" alt="">
-
-<br><br>
-
-## SOBRE MÍ · ABOUT
-
-<!-- EDIT ME: texto corto, humano, sin clichés. Mantén ES y EN equivalentes. -->
-
-🇪🇸 Tengo 20 años y estudio 2º de DAW. Construyo proyectos reales mientras estudio,
-con el foco en desarrollo web y software: backend, APIs, bases de datos y automatización.
-También tengo experiencia práctica desarrollando sistemas FiveM en Lua. Ahora mismo estoy
-mejorando en arquitectura backend y desarrollo de producto, y me interesan oportunidades
-junior, prácticas y proyectos freelance.
-
-🇬🇧 I'm 20, studying the 2nd year of DAW (Web Application Development). I build real
-projects while I study, focused on web and software development: backend, APIs, databases
-and automation. I also have hands-on experience building FiveM systems in Lua. Right now
-I'm leveling up in backend architecture and product development, and I'm interested in
-junior roles, internships and freelance projects.
-
-<br><br>
-
-<img src="assets/divider.svg" alt="">
-
-<br><br>
-
-## TERMINAL
-
-<sub>🇪🇸 Quién soy en 30 segundos &nbsp;·&nbsp; 🇬🇧 Who I am in 30 seconds</sub>
-
-<br>
+<!--
+CANNAARRY GITHUB PROFILE · 2026
+Junior Web / Software Developer | 2º DAW
+Bilingual Profile: ES · EN
+Dark · Premium · Minimal · Technical
+-->
 
 <div align="center">
 
-<img src="assets/terminal-bar.svg" width="640" alt="terminal window">
+<pre> ██████╗ █████╗ ███╗   ██╗███╗   ██╗ █████╗  █████╗ ██████╗ ██████╗ ██╗   ██╗
+██╔════╝██╔══██╗████╗  ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝
+██║     ███████║██╔██╗ ██║██╔██╗ ██║███████║███████║██████╔╝██████╔╝ ╚████╔╝
+██║     ██╔══██║██║╚██╗██║██║╚██╗██║██╔══██║██╔══██║██╔══██╗██╔══██╗  ╚██╔╝
+╚██████╗██║  ██║██║ ╚████║██║ ╚████║██║  ██║██║  ██║██║  ██║██║  ██║   ██║
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝</pre>
 
-```bash
-$ whoami
-> junior_web_developer
+<p><b>Junior Web / Software Developer</b></p>
+<p><sup><b>2º DAW</b> · Backend · APIs · Automation<br>Building real projects while studying.</sup></p>
 
-$ education
-> DAW · 2nd year
+<br>
 
-$ currently_building
-> clientflow_crm
-
-$ focus
-> web / backend / apis / automation / ai
-
-$ experience
-> web_development + fivem_development [lua]
-
-$ status
-> open_to_opportunities
-```
+<p><sup><a href="#es--about-me">🇪🇸 ES</a> &nbsp;•&nbsp; <a href="#en--about-me">🇬🇧 EN</a></sup></p>
 
 </div>
 
-<br><br>
+---
 
-<img src="assets/divider.svg" alt="">
+## ES • ABOUT ME
 
-<br><br>
+Tengo 20 años y estudio el 2º año de DAW (Desarrollo de Aplicaciones Web) en España.
 
-## ESTADO DEL SISTEMA · SYSTEM STATUS
+Me enfoco en **desarrollo web y software real** — trabajo con backends, APIs, bases de datos y sistemas de automatización. Mientras estudio, construyo proyectos prácticos y aprendo arquitectura profesional.
 
-<table>
-<tr>
-<td width="35%"><b>Educación · Education</b></td>
-<td>DAW · 2º año / 2nd year</td>
-</tr>
-<tr>
-<td><b>Construyendo · Building</b></td>
-<td>ClientFlow — full-stack CRM</td>
-</tr>
-<tr>
-<td><b>Aprendiendo · Learning</b></td>
-<td>Arquitectura backend · APIs · Automatización · Integraciones IA<br>Backend architecture · APIs · Automation · AI integrations</td>
-</tr>
-<tr>
-<td><b>Buscando · Looking for</b></td>
-<td>Prácticas · Puestos junior · Freelance<br>Internships · Junior roles · Freelance</td>
-</tr>
-</table>
+También tengo **experiencia práctica con FiveM** en Lua (Qbox, QBCore, ESX, ox_lib). Es parte de mi background técnico, pero estoy enfocado en construir una carrera como **Web / Software Developer**.
 
-<br><br>
+Junior pero **construyendo código real** y mejorando rápido.
 
-<img src="assets/divider.svg" alt="">
+---
 
-<br><br>
+## EN • ABOUT ME
 
-## CONSTRUYENDO AHORA · NOW BUILDING
+I'm 20, studying 2nd year of DAW (Web Application Development) in Spain.
 
-<!-- EDIT ME: cuando ClientFlow tenga repo público, añade su URL donde se indica. -->
+I focus on **real web and software development** — working with backends, APIs, databases, and automation systems. While I study, I build practical projects and learn professional architecture.
 
-### CLIENTFLOW · FULL-STACK CRM
+I also have **hands-on experience with FiveM** in Lua (Qbox, QBCore, ESX, ox_lib). It's part of my technical background, but I'm focused on building a career as a **Web / Software Developer**.
 
-<sub><code>BUILDING · EN CONSTRUCCIÓN</code></sub>
+Junior but **shipping real code** and improving fast.
 
-🇪🇸 Mi proyecto principal actual: un CRM full-stack que estoy construyendo para
-practicar arquitectura backend real — API, base de datos y producto de principio a fin.
-El repositorio aún no es público; este bloque quedará conectado en cuanto lo sea.
+---
 
-🇬🇧 My current main project: a full-stack CRM I'm building to practice real backend
-architecture — API, database and product, end to end. The repository isn't public yet;
-this block will be linked as soon as it is.
+## ES • NAVEGACIÓN
 
-| | |
-|---|---|
-| **Estado · Status** | `BUILDING · EN CONSTRUCCIÓN` |
-| **Tipo · Type** | CRM web full-stack · Full-stack web CRM |
-| **Stack objetivo · Target stack** | Web · Backend · Database |
-| **Aprendiendo con él · Learning with it** | Arquitectura backend · APIs · Bases de datos · Backend architecture · APIs · Databases |
-| **Repositorio · Repository** | `PRÓXIMAMENTE · COMING SOON` <!-- EDIT ME: pega aquí la URL del repo / paste repo URL here --> |
+[📋 Actualmente Construyendo](#es--actualmente-construyendo) • [🛠 Tech Stack](#es--tech-stack) • [📁 Proyectos](#es--proyectos-destacados) • [📊 Estadísticas](#es--estadísticas-github) • [🎯 Objetivos](#es--objetivos-actuales) • [📮 Contacto](#es--contacto)
 
-<sub>🔍 debug note: rutas revisadas, el bug no está aquí · routes checked, bug's not here → [← debug](#debug-the-developer)</sub>
+## EN • NAVIGATION
 
-<br><br>
+[📋 Currently Building](#en--currently-building) • [🛠 Tech Stack](#en--tech-stack) • [📁 Projects](#en--featured-projects) • [📊 Stats](#en--github-stats) • [🎯 Goals](#en--current-goals) • [📮 Contact](#en--contact)
 
-<img src="assets/divider.svg" alt="">
+---
 
-<br><br>
+## SISTEMA DE ESTADO · SYSTEM STATUS
 
-## PROYECTOS · PROJECTS
+### ES • ESTADO ACTUAL
 
-<!-- Solo repos verificados en github.com/cannaarryy. No renombres URLs sin renombrar el repo. -->
-<!-- Only verified repos. "portfoliosjk" no existe como repo público (404): no se enlaza. -->
+| Estado | Detalle |
+|--------|---------|
+| **Educación** | 2º DAW — Desarrollo de Aplicaciones Web |
+| **Construyendo** | ClientFlow · CRM full-stack |
+| **Aprendiendo** | Arquitectura backend · APIs · Automatización · Integraciones IA |
+| **Disponible para** | Prácticas junior · Proyectos freelance · Colaboraciones |
+| **Enfoque** | Web / Backend · APIs · Bases de datos · Automatización |
 
-<sub>🇪🇸 Calidad sobre cantidad: lo que hay es real &nbsp;·&nbsp; 🇬🇧 Quality over quantity: what's here is real</sub>
+### EN • CURRENT STATUS
 
-<br>
+| Status | Detail |
+|--------|--------|
+| **Education** | 2nd DAW — Web Application Development |
+| **Building** | ClientFlow · Full-stack CRM |
+| **Learning** | Backend architecture · APIs · Automation · AI integrations |
+| **Available for** | Junior internships · Freelance projects · Collaborations |
+| **Focus** | Web / Backend · APIs · Databases · Automation |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### NOTYX LOGS
-<sub>FiveM · Lua · <code>LIVE · EN VIVO</code></sub>
-<br><br>
-<sub>🇪🇸 Sistema de logs del lado del servidor para servidores FiveM.</sub>
-<br>
-<sub>🇬🇧 Server-side logging system for FiveM servers.</sub>
-<br><br>
-<sub>Stack: <code>Lua</code> · FiveM</sub>
-<br><br>
-<a href="https://github.com/cannaarryy/Notyx-logs">→ Repository · Repositorio</a>
+## ES • ACTUALMENTE CONSTRUYENDO
 
-</td>
-<td width="50%" valign="top">
+<!-- EDIT ME: cuando ClientFlow tenga repo público, sustituye el estado por su URL. -->
+
+### ClientFlow
+**Estado:** En desarrollo · Full-stack CRM
+**Tech:** Web · Backend · Database
+
+Aplicación full-stack de gestión de clientes. Estoy trabajando en arquitectura backend, API, base de datos y producto de principio a fin. El repositorio aún no es público.
+
+`REPOSITORIO · PRÓXIMAMENTE`
+
+---
+
+## EN • CURRENTLY BUILDING
+
+<!-- EDIT ME: when ClientFlow has a public repo, replace the status with its URL. -->
+
+### ClientFlow
+**Status:** In progress · Full-stack CRM
+**Tech:** Web · Backend · Database
+
+Full-stack client management app. Working on backend architecture, API, database and product end to end. The repository isn't public yet.
+
+`REPOSITORY · COMING SOON`
+
+---
+
+## ES • PROYECTOS DESTACADOS
+
+<!-- Solo repos verificados en github.com/cannaarryy. Notyx-logs NO tiene README en raíz: sin link de Detalles. -->
 
 ### NOTYX FPS BOOSTER
-<sub>FiveM · Lua · <code>LIVE · EN VIVO</code></sub>
-<br><br>
-<sub>🇪🇸 Menú optimizador de FPS: presets visuales, filtros especiales y FPS en tiempo real. Standalone y ligero.</sub>
-<br>
-<sub>🇬🇧 FPS optimizer menu: visual presets, special filters and live FPS. Standalone, lightweight.</sub>
-<br><br>
-<sub>Stack: <code>Lua</code> · ESX / QBCore / Qbox</sub>
-<br><br>
-<a href="https://github.com/cannaarryy/notyx-fps-booster">→ Repository · Repositorio</a>
+**Estado:** Activo
+**Tipo:** FiveM · Lua
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Menú optimizador de FPS para servidores FiveM. Cambia cielo, iluminación y filtros visuales. Presets configurables (ULTRA, RAPID, LOW, ORIGINAL) y FPS en tiempo real. Standalone y ligero.
 
-### CLIENTFLOW
-<sub>Web · Full-stack · <code>BUILDING · EN CONSTRUCCIÓN</code></sub>
-<br><br>
-<sub>🇪🇸 CRM full-stack en desarrollo. Mi proyecto principal actual.</sub>
-<br>
-<sub>🇬🇧 Full-stack CRM under development. My current main project.</sub>
-<br><br>
-<sub>Stack: Web · Backend · Database</sub>
-<br><br>
-<a href="#construyendo-ahora--now-building">→ Ver estado · View status</a>
+**Tech:** Lua · ESX · QBCore · Qbox
 
-</td>
-<td width="50%" valign="top">
+[📂 Repositorio](https://github.com/cannaarryy/notyx-fps-booster) • [🔍 Detalles](https://github.com/cannaarryy/notyx-fps-booster/blob/main/README.md)
 
-### PORTFOLIO
-<sub>Web · <code>PRÓXIMAMENTE · COMING SOON</code></sub>
-<br><br>
-<sub>🇪🇸 Portfolio de desarrollador, en construcción.</sub>
-<br>
-<sub>🇬🇧 Developer portfolio, under construction.</sub>
-<br><br>
-<sub>Stack: Web</sub>
-<br><br>
-<sub>Sin repositorio público todavía · No public repo yet</sub>
+---
 
-</td>
-</tr>
-</table>
+### NOTYX LOGS
+**Estado:** Activo
+**Tipo:** FiveM · Lua
 
-<br><br>
+Sistema de logs para servidores FiveM. Registra eventos del servidor.
 
-<img src="assets/divider.svg" alt="">
+**Tech:** Lua · FiveM
 
-<br><br>
+[📂 Repositorio](https://github.com/cannaarryy/Notyx-logs)
 
-## STACK TECNOLÓGICO · TECH STACK
+---
 
-<!-- EDIT ME: añade/quita solo lo que uses de verdad. Menos es más. -->
-<!-- Solo texto: sin muro de badges a propósito. / Plain text on purpose: no badge wall. -->
+## EN • FEATURED PROJECTS
 
-**LENGUAJES · LANGUAGES**
-<br>
-`HTML` `CSS` `JavaScript` `Java` `Lua` `SQL`
+<!-- Only verified repos at github.com/cannaarryy. Notyx-logs has NO root README: no Details link. -->
 
-<br><br>
+### NOTYX FPS BOOSTER
+**Status:** Active
+**Type:** FiveM · Lua
 
-**WEB / BACKEND**
-<br>
-`Node.js` `Express` `REST APIs`
+FPS optimizer menu for FiveM servers. Changes sky, lighting and visual filters. Configurable presets (ULTRA, RAPID, LOW, ORIGINAL) with live FPS. Standalone, lightweight.
 
-<br><br>
+**Tech:** Lua · ESX · QBCore · Qbox
 
-**BASE DE DATOS · DATABASE**
-<br>
-`MySQL`
+[📂 Repository](https://github.com/cannaarryy/notyx-fps-booster) • [🔍 Details](https://github.com/cannaarryy/notyx-fps-booster/blob/main/README.md)
 
-<br><br>
+---
 
-**HERRAMIENTAS · TOOLS**
-<br>
-`Git` `GitHub` `VS Code`
+### NOTYX LOGS
+**Status:** Active
+**Type:** FiveM · Lua
 
-<br><br>
+Logging system for FiveM servers. Records server events.
 
-**FIVEM**
-<br>
-`Qbox` `QBCore` `ESX` `ox_lib` `ox_target` `ox_inventory`
+**Tech:** Lua · FiveM
 
-<br><br>
+[📂 Repository](https://github.com/cannaarryy/Notyx-logs)
 
-**AUTOMATIZACIÓN / IA · AUTOMATION / AI**
-<br>
-`APIs` `AI integrations` `Automation scripts`
+---
 
-<br>
+## ES • TECH STACK
 
-<sub>🇪🇸 Listado = usado en proyectos o estudios. No es una wishlist. &nbsp;·&nbsp; 🇬🇧 Listed = used in projects or studies. Not a wishlist.</sub>
-<br>
-<sub>🔍 debug note: el stack compila. El bug no está aquí · the stack compiles, bug's not here → [← debug](#debug-the-developer)</sub>
+<!-- Stack listado = usado en proyectos o estudios DAW. Sin niveles inventados. -->
 
-<br><br>
+### LENGUAJES
 
-<img src="assets/divider.svg" alt="">
+| Lenguaje | Uso |
+|----------|-----|
+| **HTML · CSS · JavaScript** | Desarrollo web · DAW |
+| **Lua** | FiveM · ESX · QBCore · Qbox |
+| **Java** | Estudio en DAW |
+| **SQL** | MySQL · Bases de datos |
 
-<br><br>
+### WEB · BACKEND
 
-## ACTIVIDAD · ACTIVITY
+- **Node.js** (en aprendizaje)
+- **Express** (en aprendizaje)
+- **REST APIs** (diseño y consumo)
 
-<!-- Sin widgets externos a propósito: los servicios públicos de stats están caídos/no fiables
-     (github-readme-stats → 503, activity-graph → 402, verificado 2026-09-16).
-     Datos 100% verificados vía GitHub API. Cero dependencias que puedan romperse. -->
+### BASE DE DATOS
 
-<sub>🇪🇸 Datos reales, sin tarjetas que puedan romperse &nbsp;·&nbsp; 🇬🇧 Real data, no cards that can break</sub>
+- **MySQL** — diseño y consultas
 
-<br>
+### HERRAMIENTAS
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-<br>
+- **Git** · **GitHub** — control de versiones
+- **VS Code** — desarrollo
 
-**REPOS PÚBLICOS**
-**PUBLIC REPOS**
+### FIVEM · LUA
 
-**`03`**
+- **Qbox** · **QBCore** · **ESX** — frameworks
+- **ox_lib** · **ox_target** · **ox_inventory** — librerías
 
-<sub>cannaarryy · notyx-fps-booster · Notyx-logs</sub>
+### AUTOMATIZACIÓN · IA
 
-</td>
-<td width="50%" valign="top" align="center">
-<br>
+- APIs externas
+- Scripts de automatización
+- Integraciones IA (en aprendizaje)
 
-**LENGUAJE VERIFICADO**
-**VERIFIED LANGUAGE**
+---
 
-**`Lua`**
+## EN • TECH STACK
 
-<sub>100% en Notyx-logs · vía GitHub API</sub>
-<br>
-<sub>100% in Notyx-logs · via GitHub API</sub>
+<!-- Listed stack = used in projects or DAW studies. No invented levels. -->
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<br>
+### LANGUAGES
 
-**FOCO ACTUAL**
-**CURRENT FOCUS**
+| Language | Use |
+|----------|-----|
+| **HTML · CSS · JavaScript** | Web development · DAW |
+| **Lua** | FiveM · ESX · QBCore · Qbox |
+| **Java** | Study in DAW |
+| **SQL** | MySQL · Databases |
 
-**`ClientFlow`**
+### WEB · BACKEND
 
-<sub>CRM full-stack · en construcción</sub>
-<br>
-<sub>Full-stack CRM · under construction</sub>
+- **Node.js** (learning)
+- **Express** (learning)
+- **REST APIs** (design and consumption)
 
-</td>
-<td width="50%" valign="top" align="center">
-<br>
+### DATABASE
 
-**BASE**
-**BASE**
+- **MySQL** — design and queries
 
-**`DAW-2`**
+### TOOLS
 
-<sub>Desarrollo web · 20 años</sub>
-<br>
-<sub>Web development · age 20</sub>
+- **Git** · **GitHub** — version control
+- **VS Code** — development
 
-</td>
-</tr>
-</table>
+### FIVEM · LUA
 
-<br>
+- **Qbox** · **QBCore** · **ESX** — frameworks
+- **ox_lib** · **ox_target** · **ox_inventory** — libraries
 
-<sub>🇪🇸 El grafo de contribuciones nativo de este perfil es la fuente de verdad. Este dashboard es estático a propósito: ningún servicio externo puede dejarlo en blanco. &nbsp;·&nbsp; 🇬🇧 This profile's native contribution graph is the source of truth. This dashboard is static on purpose: no external service can blank it.</sub>
-<br>
-<sub>🔍 debug note: hay commits en el grafo. El bug no está aquí · commits exist on the graph, bug's not here → [← debug](#debug-the-developer)</sub>
+### AUTOMATION · AI
 
-<br><br>
+- External APIs
+- Automation scripts
+- AI integrations (learning)
 
-<img src="assets/divider.svg" alt="">
+---
 
-<br><br>
+## ES • ESTADÍSTICAS GITHUB
 
-## DEBUG THE DEVELOPER
+<!-- SIN widgets externos a propósito: github-readme-stats → 503 y activity-graph → 402
+     (verificado 2026-09-16). Datos 100% verificados vía GitHub API.
+     Para reactivar widgets cuando el servicio vuelva:
+     https://github-readme-stats.vercel.app/api?username=cannaarryy&show_icons=true&theme=dark&bg_color=0A0A0A&border_color=242424&text_color=F5F5F5&hide_border=true -->
 
-<sub>🇪🇸 Algo está roto. Elige una hipótesis. &nbsp;·&nbsp; 🇬🇧 Something is broken. Pick a hypothesis.</sub>
-<br>
-<sub>Sin JavaScript: solo anchors · No JavaScript: anchors only</sub>
+| Métrica | Dato |
+|---------|------|
+| **Repos públicos** | 03 |
+| **Lenguaje verificado** | Lua (Notyx-logs, vía API) |
+| **Foco actual** | ClientFlow · CRM |
+| **Base** | DAW 2º · 20 años |
 
-<br>
+*El grafo de contribuciones nativo del perfil es la fuente de verdad. Sin tarjetas externas que puedan romperse.*
 
-**[1] Missing semicolon → punto y coma perdido**
-<br>
-<sub>Revisa dónde se escribe el código · Check where code is written →</sub> [`stack`](#stack-tecnológico--tech-stack)
+---
 
-<br><br>
+## EN • GITHUB STATS
 
-**[2] Wrong API endpoint → endpoint equivocado**
-<br>
-<sub>Revisa dónde viven las rutas · Check where routes live →</sub> [`now building`](#construyendo-ahora--now-building)
+<!-- NO external widgets on purpose: github-readme-stats → 503, activity-graph → 402
+     (verified 2026-09-16). Data 100% verified via GitHub API. -->
 
-<br><br>
+| Metric | Data |
+|--------|------|
+| **Public repos** | 03 |
+| **Verified language** | Lua (Notyx-logs, via API) |
+| **Current focus** | ClientFlow · CRM |
+| **Base** | DAW 2nd year · age 20 |
 
-**[3] Developer forgot to commit → el dev olvidó commitear**
-<br>
-<sub>Revisa la evidencia · Check the evidence →</sub> [`activity`](#actividad--activity)
+*This profile's native contribution graph is the source of truth. No external cards that can break.*
 
-<br><br>
+---
 
-**[4] It works on my machine™ → en mi máquina funciona™**
-<br>
-<sub>La respuesta favorita de todo dev · Every dev's favorite answer →</sub> [`ejecutar diagnóstico · run diagnostics`](#debug-complete)
+## ES • OBJETIVOS ACTUALES
 
-<br><br>
+- [ ] Completar 2º año de DAW
+- [ ] Construir proyectos web/backend reales
+- [ ] Mejorar arquitectura y buenas prácticas
+- [ ] Mejorar APIs REST y bases de datos
+- [ ] Explorar integraciones con IA
+- [ ] Ganar experiencia profesional
+- [ ] Desarrollar portfolio técnico
 
-#### DEBUG COMPLETE
+---
 
-```text
-✓ diagnosis finished — 0 bugs found
+## EN • CURRENT GOALS
 
-> 🇪🇸 No había ningún bug. Solo tenías que seguir bajando.
-> 🇬🇧 There was no bug. You just needed to keep scrolling.
+- [ ] Complete 2nd year of DAW
+- [ ] Build real web/backend projects
+- [ ] Improve architecture and good practices
+- [ ] Improve REST APIs and databases
+- [ ] Explore AI integrations
+- [ ] Gain professional experience
+- [ ] Develop technical portfolio
 
-hidden achievement unlocked: [CURIOUS]
-```
+---
 
-<sub>→ [← volver al debug · back to debug](#debug-the-developer) &nbsp;·&nbsp; [contacto · contact](#contacto--contact)</sub>
+## ES • CONTACTO
 
-<br><br>
+Estoy abierto a prácticas, proyectos freelance y colaboraciones.
 
-<img src="assets/divider.svg" alt="">
+| Canal | Información |
+|-------|-------------|
+| **GitHub** | [@cannaarryy](https://github.com/cannaarryy) |
+| **Portfolio** | `PRÓXIMAMENTE` |
+| **LinkedIn** | `PRÓXIMAMENTE` |
+| **Email** | `PRÓXIMAMENTE` |
 
-<br><br>
+[→ Abre un issue](https://github.com/cannaarryy/cannaarryy/issues) · [→ Envía un PR](https://github.com/cannaarryy/cannaarryy/pulls)
 
-## OBJETIVOS · GOALS
+---
 
-<!-- Una línea por objetivo, ambos idiomas inline: compacto y 100% bilingüe. -->
+## EN • CONTACT
 
-- Terminar DAW · Finish DAW
-- Construir proyectos reales tipo producción · Build real production-like projects
-- Mejorar arquitectura backend · Improve backend architecture
-- Mejorar APIs y bases de datos · Improve APIs and databases
-- Aprender integraciones IA · Learn AI integrations
-- Construir sistemas de automatización · Build automation systems
-- Conseguir experiencia profesional · Gain professional experience
+I'm open to internships, freelance projects, and collaborations.
 
-<br><br>
+| Channel | Information |
+|---------|-------------|
+| **GitHub** | [@cannaarryy](https://github.com/cannaarryy) |
+| **Portfolio** | `COMING SOON` |
+| **LinkedIn** | `COMING SOON` |
+| **Email** | `COMING SOON` |
 
-<img src="assets/divider.svg" alt="">
+[→ Open an issue](https://github.com/cannaarryy/cannaarryy/issues) · [→ Send a PR](https://github.com/cannaarryy/cannaarryy/pulls)
 
-<br><br>
-
-## CONTACTO · CONTACT
+---
 
 <div align="center">
 
-### HAGAMOS ALGO · LET'S BUILD SOMETHING
-
-<sub>🇪🇸 Estudiando, construyendo y abierto a freelance y colaboraciones.</sub>
-<br>
-<sub>🇬🇧 Studying, building, and open to freelance work and collaborations.</sub>
-
-<br><br>
-
-| | |
-|---|---|
-| **GitHub** | https://github.com/cannaarryy |
-| **Portfolio** | `PLACEHOLDER — añade la URL · add URL here` |
-| **LinkedIn** | `PLACEHOLDER — añade la URL · add URL here` |
-| **Email** | `PLACEHOLDER — añade el email · add email here` |
-
-<br>
-
-<!-- EDIT ME: al tener portfolio/linkedin/email, sustituye los PLACEHOLDER de arriba
-     Y los shields del HERO. Solo estos 4 canales. / Same 4 channels, nothing more. -->
-
-<sub>🇪🇸 Recruiters, devs o owners de servidores: abrid un issue, un PR o simplemente saludad. &nbsp;·&nbsp; 🇬🇧 Recruiters, devs or server owners: open an issue, a PR, or just say hi.</sub>
-
-</div>
-
-<br><br>
-
-<img src="assets/divider.svg" alt="">
-
-<br>
-
-<div align="center">
-
-<sub>CONSTRUYENDO EN PÚBLICO · BUILDING IN PUBLIC</sub>
-<br>
-<sub><code>cannaarryy</code> · 2026</sub>
-<br><br>
-<sub>© 2026 cannaarryy — All rights reserved.</sub>
+<p><b>CONSTRUYENDO EN PÚBLICO · APRENDIENDO EN PROGRESO</b><br><b>BUILDING IN PUBLIC · LEARNING IN PROGRESS</b></p>
+<p><sup><b>2026</b> · cannaarryy</sup></p>
+<p><sup>© 2026 cannaarryy — All rights reserved.</sup></p>
+<p><sup><a href="https://github.com/cannaarryy">⬆ Volver al inicio / Back to top</a></sup></p>
 
 </div>
