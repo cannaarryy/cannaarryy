@@ -14,6 +14,13 @@ from datetime import date
 
 USER = os.environ.get("GITHUB_USER", "cannaarryy")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
+# Repos a ignorar (formato "owner/name" o nombre solo). Por defecto se excluye
+# el propio repo del perfil: es presentacion, no portfolio de codigo.
+EXCLUDED = set(
+    e.strip().lower()
+    for e in os.environ.get("EXCLUDED_REPOS", "").split(",")
+    if e.strip()
+)
 OUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "generated")
 
 # Paleta del perfil
@@ -50,7 +57,11 @@ def fetch_repos():
         if len(batch) < 100:
             break
         page += 1
-    return [r for r in repos if not r.get("fork")]
+    repos = [r for r in repos if not r.get("fork")]
+    repos = [r for r in repos
+             if r.get("full_name", "").lower() not in EXCLUDED
+             and r.get("name", "").lower() not in EXCLUDED]
+    return repos
 
 
 def overview_svg(n_repos, stars, forks):
@@ -111,9 +122,9 @@ def main():
     top = sorted(lang_bytes.items(), key=lambda kv: kv[1], reverse=True)
     os.makedirs(OUT_DIR, exist_ok=True)
     with open(os.path.join(OUT_DIR, "overview.svg"), "w", encoding="utf-8") as f:
-        f.write(overview_svg(len(repos), stars, forks))
+        f.write(overview_svg(len(repos), stars, forks) + "\n")
     with open(os.path.join(OUT_DIR, "languages.svg"), "w", encoding="utf-8") as f:
-        f.write(languages_svg(top))
+        f.write(languages_svg(top) + "\n")
     print("repos=%d stars=%d forks=%d langs=%s" % (
         len(repos), stars, forks, ",".join(n for n, _ in top) or "-"))
 

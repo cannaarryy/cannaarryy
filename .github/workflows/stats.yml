@@ -30,6 +30,9 @@ jobs:
         env:
           GITHUB_USER: cannaarryy
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # El repo del perfil es presentacion, no portfolio: se excluye
+          # para que las stats describan codigo real.
+          EXCLUDED_REPOS: cannaarryy/cannaarryy
       - name: Commit images
         run: |
           git config user.name "github-actions[bot]"
