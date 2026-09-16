@@ -7,12 +7,7 @@ Dark · Premium · Minimal · Technical
 
 <div align="center">
 
-<pre> ██████╗ █████╗ ███╗   ██╗███╗   ██╗ █████╗  █████╗ ██████╗ ██████╗ ██╗   ██╗
-██╔════╝██╔══██╗████╗  ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝
-██║     ███████║██╔██╗ ██║██╔██╗ ██║███████║███████║██████╔╝██████╔╝ ╚████╔╝
-██║     ██╔══██║██║╚██╗██║██║╚██╗██║██╔══██║██╔══██║██╔══██╗██╔══██╗  ╚██╔╝
-╚██████╗██║  ██║██║ ╚████║██║ ╚████║██║  ██║██║  ██║██║  ██║██║  ██║   ██║
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝</pre>
+<img src="img/hero.png" alt="CANNAARRY — Desarrollador Web & Software Junior / Junior Software Developer · DAW 2º">
 
 <p><b>Junior Web / Software Developer</b></p>
 <p><sup><b>2º DAW</b> · Backend · APIs · Automation<br>Building real projects while studying.</sup></p>
@@ -61,6 +56,12 @@ Junior but **shipping real code** and improving fast.
 
 ## SISTEMA DE ESTADO · SYSTEM STATUS
 
+<div align="center">
+
+<img src="img/system-status.png" alt="Estado del sistema · System status: DAW 2º, ClientFlow, Web Backend APIs AI, abierto a oportunidades">
+
+</div>
+
 ### ES • ESTADO ACTUAL
 
 | Estado | Detalle |
@@ -95,6 +96,12 @@ Aplicación full-stack de gestión de clientes. Estoy trabajando en arquitectura
 
 `REPOSITORIO · PRÓXIMAMENTE`
 
+<div align="center">
+
+<img src="img/terminal.png" alt="Terminal: compilación del proyecto ClientFlow">
+
+</div>
+
 ---
 
 ## EN • CURRENTLY BUILDING
@@ -108,6 +115,12 @@ Aplicación full-stack de gestión de clientes. Estoy trabajando en arquitectura
 Full-stack client management app. Working on backend architecture, API, database and product end to end. The repository isn't public yet.
 
 `REPOSITORY · COMING SOON`
+
+<div align="center">
+
+<img src="img/terminal.png" alt="Terminal: ClientFlow project build">
+
+</div>
 
 ---
 
@@ -256,6 +269,12 @@ Logging system for FiveM servers. Records server events.
      Para reactivar widgets cuando el servicio vuelva:
      https://github-readme-stats.vercel.app/api?username=cannaarryy&show_icons=true&theme=dark&bg_color=0A0A0A&border_color=242424&text_color=F5F5F5&hide_border=true -->
 
+<div align="center">
+
+<img src="img/stats-frame.png" alt="GitHub · Actividad y estadísticas · Activity and stats">
+
+</div>
+
 | Métrica | Dato |
 |---------|------|
 | **Repos públicos** | 03 |
@@ -271,6 +290,12 @@ Logging system for FiveM servers. Records server events.
 
 <!-- NO external widgets on purpose: github-readme-stats → 503, activity-graph → 402
      (verified 2026-09-16). Data 100% verified via GitHub API. -->
+
+<div align="center">
+
+<img src="img/stats-frame.png" alt="GitHub · Activity and stats · Actividad y estadísticas">
+
+</div>
 
 | Metric | Data |
 |--------|------|
@@ -307,6 +332,20 @@ Logging system for FiveM servers. Records server events.
 
 ---
 
+## DEBUG THE DEVELOPER
+
+<sub>🇪🇸 ¿Algo roto? Abre un issue y lo depuramos &nbsp;·&nbsp; 🇬🇧 Something broken? Open an issue and we'll debug it</sub>
+
+<div align="center">
+
+<a href="https://github.com/cannaarryy/cannaarryy/issues/new">
+<img src="img/debug-developer.png" alt="SYS_ERROR // DEVELOPER_NOT_FOUND — pulsa para abrir un issue · click to open an issue">
+</a>
+
+</div>
+
+---
+
 ## ES • CONTACTO
 
 Estoy abierto a prácticas, proyectos freelance y colaboraciones.
@@ -338,6 +377,8 @@ I'm open to internships, freelance projects, and collaborations.
 ---
 
 <div align="center">
+
+<img src="img/footer.png" alt="Building in public · Aprendiendo en público · ES / EN · 2026">
 
 <p><b>CONSTRUYENDO EN PÚBLICO · APRENDIENDO EN PROGRESO</b><br><b>BUILDING IN PUBLIC · LEARNING IN PROGRESS</b></p>
 <p><sup><b>2026</b> · cannaarryy</sup></p>
