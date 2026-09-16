@@ -424,5 +424,7 @@ you clicked a README easter egg. respect.
 <sub>Still learning. Still building.</sub>
 <br>
 <sub><code>cannaarryy</code> · 2026</sub>
+<br><br>
+<sub>© 2026 cannaarryy — All rights reserved.</sub>
 
 </div>
