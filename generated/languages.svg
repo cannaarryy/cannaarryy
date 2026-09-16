@@ -2,5 +2,6 @@
   <rect width="438" height="198" x="1" y="1" rx="8" fill="#0A0A0A" stroke="#242424"/>
   <text x="24" y="36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#F5F5F5">$ top-languages --user cannaarryy</text>
   <line x1="24" y1="50" x2="416" y2="50" stroke="#242424"/>
-  <text x="24" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#F5F5F5">Lua</text>  <rect x="150" y="69" width="210" height="10" rx="2" fill="#38BDF8" opacity="1.0"/>  <text x="372" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8A8A8A">100%</text>
+  <text x="24" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#F5F5F5">Lua</text>  <rect x="150" y="69" width="210" height="10" rx="2" fill="#38BDF8" opacity="1.0"/>  <text x="372" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8A8A8A">93%</text>
+  <text x="24" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#F5F5F5">Python</text>  <rect x="150" y="95" width="16" height="10" rx="2" fill="#38BDF8" opacity="0.86"/>  <text x="372" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8A8A8A">7%</text>
 </svg>
