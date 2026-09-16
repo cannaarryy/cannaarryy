@@ -11,7 +11,7 @@ Bilingual Profile: ES · EN — Dark · Premium · Minimal · Technical
 <p><sup><a href="#es--about-me">🇪🇸 ES</a> &nbsp;•&nbsp; <a href="#en--about-me">🇬🇧 EN</a></sup></p>
 
 <p><sup>
-<a href="#sobre-mí--about">about · sobre mí</a> ·
+<a href="#es--about-me">about · sobre mí</a> ·
 <a href="#terminal">terminal</a> ·
 <a href="#estado-del-sistema--system-status">status · estado</a> ·
 <a href="#construyendo--now-building">building</a> ·
@@ -71,9 +71,9 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 
 ### CLIENTFLOW — Full-stack CRM · `EN CONSTRUCCIÓN · BUILDING`
 
-🇪🇸 Mi proyecto protagonista: un CRM full-stack para practicar arquitectura backend real — API, base de datos y producto de principio a fin. El repositorio aún no es público.
+🇪🇸 Mi proyecto protagonista: un CRM full-stack, aún en fase inicial sin código público — API, base de datos y producto. El repositorio se publicará en cuanto exista.
 
-🇬🇧 My protagonist project: a full-stack CRM to practice real backend architecture — API, database and product end to end. The repository isn't public yet.
+🇬🇧 My protagonist project: a full-stack CRM, still early-stage with no public code yet — API, database and product. The repository will be published as soon as it exists.
 
 | | |
 |---|---|
@@ -133,39 +133,39 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 
 <!-- Stack = usado en proyectos o estudios DAW. Sin niveles inventados. / Used in projects or DAW studies. -->
 
-**LENGUAJES · LANGUAGES**
+**WEB**
 <br>
-`HTML` `CSS` `JavaScript` `Java` `Lua` `SQL`
+`HTML` `CSS` `JavaScript`
 
 <br><br>
 
-**WEB / BACKEND**
+**BACKEND**
 <br>
 `Node.js` `Express` `REST APIs`
 
 <br><br>
 
-**BASE DE DATOS · DATABASE**
+**DATABASE · BASE DE DATOS**
 <br>
-`MySQL`
+`SQL` `MySQL`
 
 <br><br>
 
-**HERRAMIENTAS · TOOLS**
+**LANGUAGES · LENGUAJES**
+<br>
+`JavaScript` `Java` `Lua`
+
+<br><br>
+
+**TOOLS · HERRAMIENTAS**
 <br>
 `Git` `GitHub` `VS Code`
 
 <br><br>
 
-**FIVEM**
+**EXPERIENCE · EXPERIENCIA**
 <br>
-`Qbox` `QBCore` `ESX` `ox_lib` `ox_target` `ox_inventory`
-
-<br><br>
-
-**AUTOMATIZACIÓN · IA · AUTOMATION · AI**
-<br>
-`APIs` `AI integrations` `Automation scripts`
+`FiveM` `Qbox` `QBCore` `ESX` `ox_lib` `ox_target` `ox_inventory`
 
 <br>
 
@@ -195,12 +195,12 @@ I also have hands-on experience with FiveM in Lua (Qbox, QBCore, ESX, ox_lib): i
 
 ## DEBUG THE DEVELOPER
 
-<sub>🇪🇸 Algo está roto. Elige una hipótesis · 🇬🇧 Something is broken. Pick a hypothesis — sin JavaScript · no JavaScript, anchors only</sub>
+<sub>🇪🇸 El scan encontró 4 bugs. Clasifícalos · 🇬🇧 The scan found 4 bugs. Triage them — sin JavaScript · no JavaScript, anchors only</sub>
 
 <div align="center">
 
 <a href="https://github.com/cannaarryy/cannaarryy/issues/new">
-<img src="assets/debug-developer.svg" alt="SYS_ERROR // DEVELOPER_NOT_FOUND — debugging console">
+<img src="assets/debug-developer.svg" alt="Debug scan: developer detected — pulsa para abrir un issue · click to open an issue">
 </a>
 
 </div>
