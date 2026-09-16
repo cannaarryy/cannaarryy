@@ -1,0 +1,38 @@
+name: Generate stats images
+
+# Genera generated/overview.svg + generated/languages.svg con datos
+# reales de GitHub API. Sin servidores externos, sin PAT: solo repos
+# publicos via GITHUB_TOKEN. Se regenera a diario y con cada push
+# (ignorando sus propios commits para no entrar en bucle).
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "generated/**"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate SVGs
+        run: python stats/generate.py
+        env:
+          GITHUB_USER: cannaarryy
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated
+          git diff --cached --quiet || git commit -m "chore: regenerate stats images" && git push
