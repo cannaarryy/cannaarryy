@@ -9,6 +9,6 @@
   <text x="330" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="34" font-weight="bold" fill="#FFFFFF">0</text>
   <text x="330" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8A8A8A">FORKS</text>
   <line x1="24" y1="148" x2="416" y2="148" stroke="#242424"/>
-  <text x="24" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8A8A8A">via github api · updated 2026-09-17</text>
+  <text x="24" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8A8A8A">via github api · updated 2026-09-18</text>
   <circle cx="404" cy="168" r="4" fill="#38BDF8" opacity="0.8"/>
 </svg>
